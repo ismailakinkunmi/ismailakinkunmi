@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-  [![Butler's GitHub stats](https://github-readme-stats.vercel.app/api?username=butlermuwo&show_icons=true&theme=dracula)](https://github.com/butlermuwo/github-readme-stats)
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=butlermuwo&theme=radical" alt="tedlivist" /></p>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=butlermuwo&theme=dracula)](https://github.com/butlermuwo/github-readme-stats) -->
+  [![Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailakinkunmi&show_icons=true&theme=dracula)](https://github.com/ismailakinkunmi/github-readme-stats)
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailakinkunmi&theme=radical" alt="tedlivist" /></p>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailakinkunmi&theme=dracula)](https://github.com/ismailakinkunmi/github-readme-stats) -->
 
 ### **Check my Repositories and don't forget to give me a star ** 👇
 
