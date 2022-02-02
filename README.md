@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="Ismail | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ismail | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ismail | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<br/>
 <br />
 
 ### Languages and Tools:
@@ -48,5 +47,4 @@ Here are some ideas to get you started:
 
 
 [twitter]: https://twitter.com/AkinkunmiAbiola
-[instagram]: https://www.instagram.com/adismail4/
 [linkedin]: https://www.linkedin.com/in/ismail-akinkunmi-adekunle-b810aa155/
