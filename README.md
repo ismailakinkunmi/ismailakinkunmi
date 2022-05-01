@@ -4,13 +4,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a leaderboard web app.
+- 🔭 I’m currently working on React and Redux.
 - 🌱 I am currently a full time student at Microverse, learning Full Stack Web Development . I like collaborating with others to build web applications that solve real-world problems.
 - 👯 I’m looking to collaborate with other developers.
 - 💬 Ask me about Programming
 - 📫 How to reach me: adismail4@gmail.com
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: Once upon a time, I have pushed my code before adding and committing.😄
 
 ### Connect with me:
 
