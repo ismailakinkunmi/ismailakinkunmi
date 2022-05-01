@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on React and Redux.
+- 🔭 I’m currently learning on React and Redux.
 - 🌱 I am currently a full time student at Microverse, learning Full Stack Web Development . I like collaborating with others to build web applications that solve real-world problems.
 - 👯 I’m looking to collaborate with other developers.
 - 💬 Ask me about Programming
