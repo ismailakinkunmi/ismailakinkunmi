@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently learning on React and Redux.
+- 🔭 I’m currently learning on rails.
 - 🌱 I am currently a full time student at Microverse, learning Full Stack Web Development . I like collaborating with others to build web applications that solve real-world problems.
 - 👯 I’m looking to collaborate with other developers.
 - 💬 Ask me about Programming
@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 
 
 [twitter]: https://twitter.com/AkinkunmiAbiola
-[linkedin]: https://www.linkedin.com/in/ismail-akinkunmi-adekunle-b810aa155/
+[linkedin]: https://www.linkedin.com/in/adismail4/
