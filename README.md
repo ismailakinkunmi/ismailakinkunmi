@@ -4,7 +4,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently learning on rails.
 - 🌱 Full Stack Web Developer. I like collaborating with others to build web applications that solve real-world problems.
 - 👯 I’m looking to collaborate with other developers.
 - 💬 Ask me about Programming
